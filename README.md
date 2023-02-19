@@ -1,6 +1,6 @@
-# Rosalind
+# Rosalind Bioinformatics Stronghold Solutions
 
-https://rosalind.info/problems/list-view/
 
-- Working through problems on Rosalind, an online platform designed to teach bioinformatic algorithms
-- Applying Python and problem-solving skills to learn basic bioinformatic concepts
+This repository contains my solutions to the problems in the [Bioinformatics Stronghold](https://rosalind.info/problems/list-view/) section of the Rosalind platform.  
+
+Rosalind is a platform for learning bioinformatics and programming through problem solving. The Bioinformatics Stronghold section includes a collection of challenges that cover a wide range of bioinformatics topics, from DNA and RNA to protein structure and function.
